@@ -1,1 +1,1 @@
-print 5722
+print 1214
