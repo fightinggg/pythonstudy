@@ -1,1 +1,1 @@
-print 6703
+print 1073
