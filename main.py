@@ -1,1 +1,1 @@
-print 26192
+print 891
